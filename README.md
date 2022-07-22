@@ -1,13 +1,3 @@
-## Running React on Repl.it
+Art verse where you can share links to your arts and users pay to get it private with license to use or subscribe to shared collection (max 100) with limited license to use and to be renewed every 3 months
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
-
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+## Made with Vite x anchor
